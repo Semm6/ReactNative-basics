@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, View, StyleSheet, Text } from "react-native";
+import { View, StyleSheet, Text } from "react-native";
 
 const FlexboxExample = () => {
   return (

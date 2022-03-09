@@ -1,6 +1,6 @@
 import { useDeviceOrientation } from "@react-native-community/hooks";
 import React from "react";
-import { Button, View, Image } from "react-native";
+import { View, Image } from "react-native";
 
 const ImageExample = () => {
   // npm install @react-native-community/hooks
