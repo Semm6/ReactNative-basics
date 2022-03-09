@@ -1,5 +1,21 @@
 # React native basics
 
+This is a repository with the basics of React native.
+
+## Table of contents
+
+- [Setup](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#setup)
+- [Text](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#text)
+- [Button](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#button)
+- [Alert](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#alert)
+- [Image](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#image)
+- [Line](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#line)
+- [Flexbox](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#flexbox)
+- [Top navigation](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#top-navigation)
+- [Bottom navigation](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#bottom-navigation)
+- [Sample screen](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#sample-screen)
+- [API request](https://github.com/Semm6/ReactNative-basics/edit/master/README.md#api-request)
+
 ## Setup
 
 ```
