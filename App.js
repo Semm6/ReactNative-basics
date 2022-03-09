@@ -1,11 +1,28 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StatusBar } from "expo-status-bar";
+import {
+  StyleSheet,
+  Text,
+  View,
+  SafeAreaView,
+  Image,
+  TouchableOpacity,
+  TouchableHighlight,
+} from "react-native";
+import AlertExample from "./components/AlertExample";
+import BottomNav from "./components/BottomNav";
+import ButtonExample from "./components/ButtonExample";
+import FlexboxExample from "./components/FlexboxExample";
+import ImageExample from "./components/ImageExample";
+import TextExample from "./components/TextExample";
+import TopNav from "./components/TopNav";
+import APIRequest from "./screens/APIRequest";
+import WelcomeScreen from "./screens/WelcomeScreen";
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+      <TopNav />
+      <APIRequest />
     </View>
   );
 }
@@ -13,8 +30,5 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
   },
 });
